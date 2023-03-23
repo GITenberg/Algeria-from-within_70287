@@ -1,0 +1,35 @@
+_repo: Algeria-from-within_70287
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Sampson, Julian
+    gutenberg_agent_id: '55687'
+    url: http://www.gutenberg.org/2009/agents/55687
+creator:
+  author:
+    agent_name: Bodley, R. V. C. (Ronald Victor Courtenay)
+    alias: Bodley, Ronald Victor Courtenay
+    birthdate: 1892
+    deathdate: 1970
+    gutenberg_agent_id: '55686'
+    url: http://www.gutenberg.org/2009/agents/55686
+    wikipedia: https://en.wikipedia.org/wiki/R._V._C._Bodley
+description: ''
+gutenberg_issued: '2023-03-14'
+identifiers:
+  gutenberg: '70287'
+language: en
+pgterms:marc904: https://archive.org/details/algeriafromwithi0000rvcb
+pgterms:marc905: 20230306034550bodley
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive and the HathiTrust Digital Library)
+publication_note: '  $aUnited States :$bThe Bobbs-Merrill Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Algeria from within
+url: http://www.gutenberg.org/ebooks/70287
