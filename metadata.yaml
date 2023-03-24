@@ -5,6 +5,9 @@ contributor:
     agent_name: Sampson, Julian
     gutenberg_agent_id: '55687'
     url: http://www.gutenberg.org/2009/agents/55687
+covers:
+- cover_type: archival
+  image_path: 70287-h/images/cover.jpg
 creator:
   author:
     agent_name: Bodley, R. V. C. (Ronald Victor Courtenay)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55686
     wikipedia: https://en.wikipedia.org/wiki/R._V._C._Bodley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70287#Algeria-from-within
 gutenberg_issued: '2023-03-14'
 identifiers:
   gutenberg: '70287'
